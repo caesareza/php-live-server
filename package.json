@@ -1,0 +1,11 @@
+{
+  "name": "php-browsersync",
+  "version": "1.0.0",
+  "description": "php-browsersync",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --config bs-config.js"
+  },
+  "author": "ro",
+  "license": "ISC"
+}

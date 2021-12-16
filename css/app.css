@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #f0f0f0;
+}
+
+main{
+    width: 1024px;
+    margin: 0 auto;
+    background: teal;
+}
+
+.menu {
+    margin-bottom: 20px;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+}
