@@ -3,6 +3,8 @@
 ini adalah auto reload php file atau browser, 
 jika ada perubahan di file php atau di file js dan css
 
+![home.jpg](https://raw.githubusercontent.com/caesareza/php-browsersync/master/ss/home.jpg)
+
 ## Getting Started
 
 ```bash
